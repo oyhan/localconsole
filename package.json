@@ -13,7 +13,7 @@
     "@syncfusion/ej2-data": "^17.4.51",
     "@syncfusion/ej2-react-dropdowns": "^17.4.51",
     "@syncfusion/ej2-react-grids": "^17.4.51",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chartist": "0.10.1",
     "classnames": "2.2.6",
     "dotnetify": "^3.6.1",
